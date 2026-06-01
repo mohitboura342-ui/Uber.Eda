@@ -127,8 +127,6 @@ Through this project, I improved my skills in:
 
 **Mohit Boura**
 
-* GitHub: https://github.com/mohitboura342-ui
-* LinkedIn: linkedin.com/in/mohit-boura-558382379
 
 ---
 
